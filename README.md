@@ -8,7 +8,9 @@ Este es mi primer proyecto en Github, con el que he aprendido a escribir en leng
 4. *merge* permite...
 
 También hay un comando para cambiar la configuración como, por ejemplo:
-~git config --global user.name <name>~
+~~~
+git config --global user.name <name>
+~~~
 
 ## Herramientas para las prácticas
 * Github
